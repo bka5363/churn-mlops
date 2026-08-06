@@ -1,5 +1,8 @@
 # Telecom Churn — a full MLOps pipeline
 
+**Live demo:** https://churn-mlops-7fwtfrdbhv8evxdvamoanu.streamlit.app/
+**API:** https://churn-mlops-w3u9.onrender.com/docs
+
 Predicts which telecom customers are about to leave, then serves that model as an API,
 puts a web app in front of it, tests it on every push, and retrains it on a schedule.
 
